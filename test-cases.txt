@@ -1,0 +1,55 @@
+App: Pandora
+
+- - Opening App Test Case - -
+
+Conditional Statement:
+The user can go to the Station that was listened to previously
+The user can hear music from the Station
+The user can skip the song being played
+The user can like the song being played
+The user can dislike the song being played
+The user can pause the song being played
+
+User Stories:
+As a user, I can go to the Station I was listening to previously
+As a user, I can hear music from the Station
+As a user, I can skip the song playing
+As a user, I can like the song playing
+As a user, I can dislike the song playing
+As a user, I can pause the song playing
+
+- - Create Station Test Case - -
+
+Conditional Statement:
+The user can view a list of created Stations
+The user can create new Stations
+The user can listen to newly created Stations
+The user can view  details of the Station
+The user can share the Station
+The user can delete the Station
+
+User Stories:
+As a user, I can view all the Stations I’ve created
+As a user, I can create new Stations
+As a user, I can listen to newly created Stations
+As a user, I can view details of the Station
+As a user, I can share the Station
+As a user, I can delete the Station
+
+- - Profile Test Case - -
+
+Conditional Statement:
+The user can view and change their profile picture
+The user can enter and edit their information
+The user can view total amount of likes
+The user comment on other profiles
+The user can view other profile’s likes, bookmarks and stations
+The user can connect their Facebook account
+
+User Stories:
+As a user, I can view and change my profile picture
+As a user, I can enter and edit their information
+As a user, I can view my total amount of likes
+As a user, I can comment on other profiles
+As a user, I can view other profile’s likes, bookmarks and stations
+As a user, I can connect my Facebook account
